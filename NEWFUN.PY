@@ -11,3 +11,9 @@ def subtract(*args):
     for i in args[1:]:
         result -= i
     return result
+
+def divide(*args):
+    result = args[0]
+    for i in args[1:]:
+        result /= i
+    return result

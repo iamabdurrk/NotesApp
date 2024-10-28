@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Add all changes
 git add .
