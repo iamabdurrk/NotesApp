@@ -10,5 +10,4 @@ if __name__ == "__main__":
     num2 = 10
     result = add_two_numbers(num1, num2)
     print(f"The sum of {num1} and {num2} is {result}")
-    git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+    
